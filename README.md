@@ -60,10 +60,13 @@ insights gained and experiences counted.
 ## Have you held this workshop before
 This will be the first time this workshop will be given. It is tailored to
 Booster Conf.
-
+ 
 ## What do participants have to bring to the workshop
 The participants can form pairs and work on a machine with their favorite
 environment. Starter kits will be provided in various languages to let the
 participants hit the ground running.
+
+## Additional speakers
+Jan-Erik Rediger
 
 [booster]: https://2020.boosterconf.no/
