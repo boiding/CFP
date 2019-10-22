@@ -57,4 +57,8 @@ insights gained and experiences counted.
 ## Maximum number of participants
 50
 
+## Have you held this workshop before
+This will be the first time this workshop will be given. It is tailored to
+Booster Conf.
+
 [booster]: https://2020.boosterconf.no/
