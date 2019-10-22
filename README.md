@@ -54,4 +54,7 @@ insights gained and experiences counted.
 0:30 - 2:30 Implement flock behavior
 2:30 - 3:00 Show and tell
 
+## Maximum number of participants
+50
+
 [booster]: https://2020.boosterconf.no/
