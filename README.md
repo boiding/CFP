@@ -30,8 +30,13 @@ obedient birds and see how from your code flocking emerges.
 In the virtual world you will encounter other species, both docile and predatory,
 that offer new challenges.
 
-You will walk away with a new understanding of the complex interplay of
+You will walk away with a new understanding of the complex interplay of 
 interacting systems, how intricate behavior can emerge from simple rules and a
 new appriciation of the natural world.
+
+## What roles is this workshop appropriate for?
+Developer, Tester/Test lead, Architect, Designer
+
+
 
 [booster]: https://2020.boosterconf.no/
