@@ -37,6 +37,21 @@ new appriciation of the natural world.
 ## What roles is this workshop appropriate for?
 Developer, Tester/Test lead, Architect, Designer
 
+## Outline
+We will start with by welcoming the participants to our workshop, introducing
+ourselves and detailing the agenda and goal.
+Next we will briefly explain the flocking algorithm, highlighting the key
+concepts and showing where participants can learn more about the details. We
+will provide them with reading material and a guide.
+Next the participants can implements their agents, diving directly in the meat
+of the algorithm, working from the starter kits we provide them. Participants
+can monitor their progress via a classroom visualization of their flock.
+We will close with a group discussion of the hurdles that were overcome,
+insights gained and experiences counted.
 
+0:00 - 0:05 introduction
+0:05 - 0:30 Explanation of algorithm and environment
+0:30 - 2:30 Implement flock behavior
+2:30 - 3:00 Show and tell
 
 [booster]: https://2020.boosterconf.no/
